@@ -4,7 +4,7 @@
 
 ## Main App
 
-![Screenshot](https://snipboard.io/rXeASN.jpg)
+![Screenshot](https://snipboard.io/zSXwPE.jpg)
 
 ## Editor
 
